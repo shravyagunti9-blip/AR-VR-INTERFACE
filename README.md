@@ -18,3 +18,4 @@ When the user selects a furniture item, the app moves to the AR Camera Screen, w
 The Home Screen is simple, user-friendly, and designed for easy navigation.
 
 OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3f961306-a575-4183-b8c6-98cc3f37766e" />
